@@ -2,32 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Latest 
 
-[Project 1 Title](/sample_page)
+[Microsoft-Graph-API](/https://github.com/xmindata/Microsoft-Graph-API)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Stock price tracking with IEX API](https://github.com/xmindata/stock_tracking)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
+### Archive
 
+- [Amsterdam Map Data Wrangling](https://github.com/xmindata/Amsterdam-Map-Data-Wrangling)
+- [Wine study with R](https://github.com/xmindata/Wine_study_R)
+
+---
 
 
 ---
