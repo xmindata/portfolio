@@ -5,11 +5,11 @@
 ### Latest 
 
 [Microsoft-Graph-API](/https://github.com/xmindata/Microsoft-Graph-API)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mcst_graph.png?raw=true"/>
 
 ---
 [Stock price tracking with IEX API](https://github.com/xmindata/stock_tracking)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/iex.png?raw=true"/>
 
 ---
 
