@@ -4,7 +4,7 @@
 
 ### Latest 
 
-[Microsoft-Graph-API](/https://github.com/xmindata/Microsoft-Graph-API)
+[Microsoft-Graph-API](https://github.com/xmindata/Microsoft-Graph-API)
 <img src="images/mcst_graph.png?raw=true"/>
 
 ---
